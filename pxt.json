@@ -1,0 +1,14 @@
+{
+  "name": "Bits4Bots-TM1651",
+  "version": "0.0.1",
+  "description": "Bits4Bots TM1651 Battery Level Indicator",
+  "license": "MIT",
+  "dependencies": {
+    "core": "*"
+  },
+  "files": [
+    "main.ts",
+    "README.md"
+  ],
+  "testFiles": []
+}
