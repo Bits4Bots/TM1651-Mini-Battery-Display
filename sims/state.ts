@@ -1,6 +1,8 @@
 namespace pxsim {
     export class BatteryState {
         level = 0;
+        clk = 18;
+        dio = 20;
     }
 
     export interface MicrobitBoard extends core.Board {
