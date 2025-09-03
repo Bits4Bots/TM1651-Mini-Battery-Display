@@ -11,6 +11,8 @@ This extension lets you control a TM1651 battery level indicator with MakeCode.
 - Show battery level (0-6 LEDs)
 - Set brightness (0-7)
 
+<img width="884" height="760" alt="image" src="https://github.com/user-attachments/assets/ab758cf0-afad-41ac-8e15-c7e20fdef04f" />
+
 ### Example
 ```blocks
 Bits4BotsTM1651.init(DigitalPin.P1, DigitalPin.P2)
