@@ -2,6 +2,9 @@
 
 This extension lets you control a TM1651 battery level indicator with MakeCode.
 
+<img width="1080" height="1080" alt="TM1651 Mini Display" src="https://github.com/user-attachments/assets/737cf978-5861-4d35-ab06-cee06a23224e" />
+
+
 ### Blocks
 - Initialize with CLK/DIO pins
 - Clear battery display
